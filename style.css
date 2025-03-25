@@ -5,5 +5,13 @@ h1{
 
 p{
     background-color: yellow;
-    color: green;
+    color: gree;
+}
+
+button{
+    background-color: red;
+}
+
+i{
+    font-size: 1.5em;
 }
